@@ -3,7 +3,7 @@
 [Competition Link](https://aidea-web.tw/topic/fbbb5b7e-4dc8-4827-974f-51a1ee725012)  
 
 ## Mission
-<img src="https://github.com/RichardLiu083/Aidea_Cultural_Relics_Defect_Detection_1st-place/blob/main/img/Mission.png" width="1000">
+![image](https://github.com/RichardLiu083/Aidea_Cultural_Relics_Defect_Detection_1st-place/blob/main/img/Mission.png)
 
 ## Insight
 - 針對水漬類別瑕疵單獨建立模型。(訓練仍使用5類，驗證時只取水漬類分數最高)
