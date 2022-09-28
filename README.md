@@ -28,7 +28,7 @@
 - Faster_RCNN 訓練圖片解析度 1536
 - Cascade_RCNN 訓練圖片解析度 1024
 - Cascade_RCNN 使用可變形卷積 (DCN)。
-- lr 3-e5
+- lr 3e-5
 
 ## Validation
 - 將單一圖片中座標框數量大於150之圖片當作驗證資料集，其餘用作訓練。(可避免訓練時GPU OOM)
