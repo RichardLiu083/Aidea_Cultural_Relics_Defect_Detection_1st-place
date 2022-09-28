@@ -28,7 +28,6 @@
 - Faster_RCNN 訓練圖片解析度 1536
 - Cascade_RCNN 訓練圖片解析度 1024
 - Cascade_RCNN 使用可變形卷積 (DCN)。
-- 70 epoch
 - lr 3-e5
 
 ## Validation
